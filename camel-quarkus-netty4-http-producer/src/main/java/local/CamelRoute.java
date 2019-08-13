@@ -1,10 +1,10 @@
 package local;
 
-import javax.enterprise.context.ApplicationScoped;
+//import javax.enterprise.context.ApplicationScoped;
 
 import org.apache.camel.builder.RouteBuilder;
 
-@ApplicationScoped
+//@ApplicationScoped
 public class CamelRoute extends RouteBuilder {
 
     @Override
